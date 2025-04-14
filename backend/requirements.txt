@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+torch
+python-dotenv
+requests
+gTTS
